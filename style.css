@@ -30,6 +30,7 @@ h1{
 }
 body{
     margin: 0;
+    font-family:'Roboto Slab' ;
 }
 .second-section{
     display: flex;
@@ -72,9 +73,7 @@ body{
 h2{
     font-size: 30px;
 }
-.container{
-    
-}
+
 footer p{
     text-align: center;
 }
